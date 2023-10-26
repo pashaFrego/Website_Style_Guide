@@ -1,0 +1,115 @@
+body {
+    font-family: "Sometype Mono";
+    margin: 0 10%;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.container {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.color-container {
+    width: 100%;
+}
+
+.color-panel {
+    display: inline-block;
+    text-align: center;
+    margin: 20px auto;
+    width: 32%;
+    min-height: 100px;
+}
+
+.bloody-red {
+    color: #fff;
+    background-color: #8B0000;
+}
+
+.forest-green {
+    color: #fff;
+    background-color: #228B22;
+}
+
+.dark-orange {
+    color: #000;
+    background-color: #FF8C00;
+}
+
+.gold {
+    color: #000;
+    background-color: #FFD700;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.font-panel {
+    display: inline-block;
+    width: 45%;
+}
+
+p {
+    display: block;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.sometype-mono {
+    font-family: "Sometype Mono";
+}
+
+.rubik {
+    font-family: "Rubik";
+}
+
+.vollkorn {
+    font-family: "Vollkorn";
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+}
+
+.text-panel h1 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: "Vollkorn";
+}
+
+.text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: "Sometype Mono";
+}
+
+.text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: "Rubik";
+}
